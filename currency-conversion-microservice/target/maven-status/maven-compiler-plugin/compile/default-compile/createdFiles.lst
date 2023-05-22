@@ -1,0 +1,6 @@
+com\sample\microservices\currencyconversionservice\controller\CurrencyConversionBean.class
+com\sample\microservices\currencyconversionservice\environment\EnvironmentConfigurationLogger.class
+com\sample\microservices\currencyconversionservice\security\SecurityConfiguration.class
+com\sample\microservices\currencyconversionservice\environment\InstanceInformationService.class
+com\sample\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class
+com\sample\microservices\currencyconversionservice\controller\CurrencyConversionController.class

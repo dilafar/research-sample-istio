@@ -1,0 +1,7 @@
+com\sample\microservices\currencyexchangeservice\security\SecurityConfiguration.class
+com\sample\microservices\currencyexchangeservice\controller\ExchangeValueRepository.class
+com\sample\microservices\currencyexchangeservice\environment\EnvironmentConfigurationLogger.class
+com\sample\microservices\currencyexchangeservice\controller\ExchangeValue.class
+com\sample\microservices\currencyexchangeservice\environment\InstanceInformationService.class
+com\sample\microservices\currencyexchangeservice\CurrencyExchangeServiceApplicationH2.class
+com\sample\microservices\currencyexchangeservice\controller\CurrencyExchangeController.class
